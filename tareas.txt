@@ -2,15 +2,35 @@
 Work
 * Chequear cuentas y la idea atras del abstract del poster de viedma!
   * que hacer con f y con [Fe] y con q.
-* Ver xq hay poca estadistica en los trazados nuevos.
-  * Quien esta filtrando los loops?
-  * Ademas faltan trazar algunas cantidades de Ceci.
+
 * Hacer tutorial de las nuevas corridas.  
 * Ver como evolucionar con la idea del testeo del minimizador de fbes
+
 * Final Dasso
 
-Life 
-* Organizarme horarios para: gym, yoga, entremaiento, guitarra, ingles.
-* 
-* Examen timonel
+;----------------------------------------
+BAAA-mhd
+*leer el articulo de rich y el poster de freswed y viedma y entenderlo!
 
+
+;---------------------------------------
+Baaa-mit
+
+
+
+
+;--------------------------------------
+Solphys paper - freswed
+
+-> Comparaciones entre DEMT de 2 minimos -> 2082 y 2208 
+*En el contexto de tomografia euv, reobtener figure 8 y 9 lloveras et al. 2017.
+Es decir comparacion de Ne, lambda_n y tm entre 2082 (debe comparar bine con 2081 del paper) y 2208. Esto me obliga a definir regiones del streamer y de la region abierta que engloben a las anteriores.
+
+Reobtener Fig 11, es decir gradientes de temp para loops no-isotermicos. Tambien las distribuciones latitudinales de Up y Down loops.
+
+
+MEJORAS STATLOOP
+haria que iso_erry figure en awsom, asumiendo los errores de temp de tomo. Para que al ahcer filtrados, se filtren cosas similares, no mas para ver que pasa.
+
+
+*leer paper de ceci-albert
