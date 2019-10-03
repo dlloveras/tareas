@@ -10,12 +10,7 @@ Work
 
 ;----------------------------------------
 BAAA-mhd
-*leer el articulo de rich y el poster de freswed y viedma y entenderlo!
-
-
-;---------------------------------------
-Baaa-mit
-
+*Irá surgiendo a medida que voy haciendo el paper.
 
 
 
@@ -34,3 +29,14 @@ haria que iso_erry figure en awsom, asumiendo los errores de temp de tomo. Para 
 
 
 *leer paper de ceci-albert
+-> Agregar el calculo de energias!
+reobtener los resultados de ceci de 2081 paper.
+
+
+-> Todo esto deberia llevarme a decidir las regiones!
+
+------------------------------------------------------------
+Tarea de ingles
+
+Armar carpeta con papers, en misma carpeta podria haber un txt con comentarios/observaciones de ser necesario
+Acomodar mails segun ramas de investigacion y agregar ingles.
